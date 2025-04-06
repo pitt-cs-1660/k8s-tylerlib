@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/SBHDI8tt)
 # WordPress Deployment on Local Kubernetes Cluster using Minikube
 
 In this assignment, you will deploy a WordPress application on a local Kubernetes cluster using **Minikube**. The deployment includes both a WordPress frontend and a MySQL backend, configured using Kubernetes manifest files.
